@@ -3,7 +3,7 @@ This file provides information about transformations and work performed in the s
 FIle "run_analysis.R" is the instructions/script file delivered for the course project
 The course project is a peer-assessment project 
 
-Raw data files provided for the project at site: See project raw data site.
+Raw data files provided for the project at site: See raw data site on project instructions page.
 
 The following steps are performed by the script
 

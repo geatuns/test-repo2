@@ -2,7 +2,7 @@
 This file provides information about the delierables of Getting & Cleaning Data Course project
 The course project is a peer-assessment project 
 Raw data files provided for the project at site: See raw data site on project instructions page.
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 ### Project Deliverables
 
 * Github repo at link "test-repo2"

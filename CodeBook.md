@@ -19,6 +19,7 @@ The following steps are performed by the script
 4.Read training data files into table structures
 5.Appropriately labels the data set with descriptive variable names using gsub transforms on original variable lists
 
+
 ### Merge training & test data sets - Prepare with appropriate labels
 1. Merge the training and the test sets to create one data set
 2. Check the labels of the merged data set

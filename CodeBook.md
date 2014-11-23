@@ -1,10 +1,9 @@
-## CodeBook File for Getting & Cleaning Data Course Project Week 3
+## CodeBook File - Getting & Cleaning Data Course Project Wk 3
 This file provides information about transformations and work performed in the script file "run_analysis.R"
 FIle "run_analysis.R" is the instructions/script file delivered for the course project
 The course project is a peer-assessment project 
 
-Raw data files provided for the project at site:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Raw data files provided for the project at site: See project raw data site.
 
 The following steps are performed by the script
 
